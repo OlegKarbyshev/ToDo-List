@@ -1,0 +1,92 @@
+body{
+    background-color: #1a202c;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+main.py-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    max-width: 1170px;
+    width: 100%;
+}
+
+.navbar-nav .nav-item{
+    display: flex;
+
+    font-size: 18px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-link{
+    margin: 0 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.dropdown-menu .dropdown-item{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.navbar-brand{
+    color: red;
+    font-size: 40px;
+    text-decoration: none;
+    text-align: center;
+
+}
+#app .navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+}
+
+.panel{
+
+    padding-left: 545px;
+    padding-top: 5px;
+    margin-top: 10px;
+    padding: 7px;
+    color: white;
+    font-size: 18px;
+    border: 1px solid red;
+}
+
+.table{
+    border: 1px solid red;
+    margin: 5px;
+    padding: 5px;
+}
+#task-name.form-control{
+    width: 500px;
+}
+
+.panel-heading{
+    border: 1px solid silver;
+    padding: 3px;
+}
+tr{
+    display: grid;
+    border: 1px solid silver;
+    padding: 3px;
+    margin: 5px;
+}
+td{
+
+
+}
+
+
+
